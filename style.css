@@ -1,0 +1,105 @@
+.navbar-brand{
+	font-weight: 800;
+	font-size: 30px;
+}
+#home{
+	color: green;
+}
+.navbar-nav{
+	float: right;
+	margin: 0px 50px 0px 600px;
+	font-size: 20px;
+}
+.carousel-item{
+	height:400px;
+}
+.carousel-caption{
+
+
+}
+#text{
+	text-align: center;
+	font-size: 15PX;
+
+}
+#icon{
+	height: 200px;
+	width: 25px;
+}
+#text-2{
+	text-align: center;
+	text-transform: none;
+}
+.card{
+	border-radius: 0;
+	box-shadow: 5px 5px 10px #C0C0C0FF;
+	margin-top: -50px;
+}
+.card-body{
+	font-size: 15px;
+}
+.projects{
+	text-align: center;
+	margin-top: 80px;
+}
+#text-3{
+	color: green;
+}
+#bg-mid{
+	background: #E0E0E0FF;
+
+}
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active:before {
+  background-color: #ccc; 
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active:before {
+  background-color: #ccc; 
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+footer{
+	background: black;
+}
+#pf	{
+	color: #C0C0C0FF;
+}
+h6{
+	color: #009A0EFF;
+}
